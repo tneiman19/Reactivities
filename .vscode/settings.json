@@ -1,9 +1,12 @@
 {
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "bilal-arikan.csharp-auto-formatter",
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "prettier.bracketSameLine": true,
   "prettier.jsxSingleQuote": true,
   "prettier.semi": true,
-  "prettier.singleAttributePerLine": true
+  "prettier.singleAttributePerLine": true,
+  "editor.formatOnType": true,
+  "omnisharp.organizeImportsOnFormat": true,
+  "eslint.format.enable": true
 }
