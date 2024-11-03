@@ -2,15 +2,18 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "eslint.format.enable": true,
+  "omnisharp.organizeImportsOnFormat": true,
   "prettier.bracketSameLine": true,
-  "prettier.jsxSingleQuote": true,
   "prettier.bracketSpacing": false,
+  "prettier.jsxSingleQuote": true,
   "prettier.semi": true,
   "prettier.singleAttributePerLine": false,
-  "editor.formatOnType": true,
-  "omnisharp.organizeImportsOnFormat": true,
-  "eslint.format.enable": true,
-  "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "[csharp]": {
+    "editor.defaultFormatter": "csharpier.csharpier-vscode"
   }
+  // "[typescriptreact]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // }
 }
