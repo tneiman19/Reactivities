@@ -12,8 +12,7 @@
   "prettier.singleAttributePerLine": false,
   "[csharp]": {
     "editor.defaultFormatter": "csharpier.csharpier-vscode"
-  }
-  // "[typescriptreact]": {
-  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
-  // }
+  },
+  "csharpextensions.privateMemberPrefix": "_",
+  "csharpextensions.useThisForCtorAssignments": false
 }
