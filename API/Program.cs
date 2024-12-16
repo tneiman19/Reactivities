@@ -1,4 +1,4 @@
-using API.Extentions;
+using API.Extensions;
 using API.Middleware;
 using API.SignalR;
 using Domain;
